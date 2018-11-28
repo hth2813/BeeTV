@@ -12,7 +12,7 @@
   "update_isapk":true,
   "update_title":"Update new version",
   "update_content":"Nothing news.",
-  "update_build":"2",
+  "update_build":"1",
   "update_version":"1.0a",
   "update_link":"https://github.com/TeaTV/TeaTV-Public/releases/download/7.9/teatv_7.9r.apk"
 }
